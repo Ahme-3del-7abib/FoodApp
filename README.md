@@ -5,7 +5,7 @@ This is a simple app that display list of food and it's details with advanced an
 
 To Build and run this app
 
-There is two more than one way to import this project, i will mention the easier way
+There is more than one way to import this project, i will mention the easier way
 
 1 - Open this repository and click -> clone -> Download Zip.
 
