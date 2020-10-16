@@ -1,7 +1,7 @@
 # FoodApp
 This is a simple app that display list of food and it's details with advanced android libraries.
 
-#Build and Run
+# Build and Run
 
 To Build and run this app
 
