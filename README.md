@@ -1,6 +1,9 @@
 # FoodApp
 This is a simple app that display list of food and it's details with advanced android libraries.
 
+# My Name
+Ahmed Adel Mohamed Habib
+
 # Build and Run
 
 To Build and run this app
